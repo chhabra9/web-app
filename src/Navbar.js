@@ -1,6 +1,6 @@
 function Navbar(){
     return (
-        <div>I am navbar</div>
+        <div>I am abc</div>
     )
 }
 export default Navbar;
